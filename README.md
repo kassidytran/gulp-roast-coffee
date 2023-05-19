@@ -1,2 +1,2 @@
 # gulp-roast-coffee
-M18 deliverables - Gulp Roast Coffee responsive web design
+M18 Design Challenge - Gulp Roast Coffee responsive web design
